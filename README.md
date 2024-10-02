@@ -14,6 +14,4 @@ Unos de mis desarrollos son:
 - Rey del Arco
 
 ### Mis redes sociales
-- Itch.io
-- TikTok
-- X
+- [Itch.io](https://jorgesalas1120.itch.io/)
