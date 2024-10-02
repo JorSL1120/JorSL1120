@@ -1,6 +1,8 @@
+![Banner](/imgs/banner.png)
+
 # Jorge Salas Leybon
 
-Soy estudiante de l carrera de Ingeniería en Desarrollo de Software Interactivo y videojuegos en la Universidad Amerike.
+Soy estudiante de la carrera de Ingeniería en Desarrollo de Software Interactivo y videojuegos en la Universidad Amerike.
 
 Tengo conocimientos en programación en lenguaje C, C++, C# y Python.
 
@@ -15,3 +17,9 @@ Unos de mis desarrollos son:
 
 ### Mis redes sociales
 - [Itch.io](https://jorgesalas1120.itch.io/)
+
+### Enlaces para algunos de mis desarrollos
+ - [Cosmic X-cape](https://jorgesalas1120.itch.io/cosmic-x-cape)
+ - [Rey del arco](https://jorgesalas1120.itch.io/rey-del-arco)
+ - [Christian Orlando](https://jorgesalas1120.itch.io/christian-orlando)
+ - [Husky Time](https://huskytime.org/)
