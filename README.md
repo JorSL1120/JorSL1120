@@ -17,9 +17,16 @@ Unos de mis desarrollos son:
 
 ### Mis redes sociales
 - [Itch.io](https://jorgesalas1120.itch.io/)
+- [X](https://x.com/JorgeSalas1120)
 
 ### Enlaces para algunos de mis desarrollos
  - [Cosmic X-cape](https://jorgesalas1120.itch.io/cosmic-x-cape)
  - [Rey del arco](https://jorgesalas1120.itch.io/rey-del-arco)
  - [Christian Orlando](https://jorgesalas1120.itch.io/christian-orlando)
  - [Husky Time](https://huskytime.org/)
+
+ ---
+
+ ## Contacto
+ - jorsalas1120@gmail.com
+ - [X](https://x.com/JorgeSalas1120)
